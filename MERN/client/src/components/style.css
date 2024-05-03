@@ -1,0 +1,30 @@
+th {
+    background-color: black;
+    color: white;
+  }
+  
+  td {
+    max-width: 100px;
+    word-wrap: break-word; 
+  }
+  
+  .filter-form {
+    display: flex;
+  }
+  
+  .add-song-form {
+    border: 1px solid black;
+    padding: 2rem;
+    border-radius: 15px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .cust-align {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+  }
+  
